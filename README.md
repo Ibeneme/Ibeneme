@@ -9,7 +9,7 @@
 i am a passionate and creative developer, a lover of JavaScript and NodeJs
 looking to collaborate and build really cool things.
 
-- 🔭 I’m currently working on Decentralized Social Media Server
+- 🔭 I’m currently building a Decentralized Social Media Server
 - 🌱 I’m currently learning Node Js & MongoDB
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about anything
