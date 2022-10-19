@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋 , I'm Ibeneme Ikenna. 
+##
 
-<!--
-**Ibeneme/Ibeneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack Developer (JavaScript & Node Js) || UX Designer 
+##
 
-Here are some ideas to get you started:
+## 💫 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i am a passionate and creative developer, a lover of JavaScript and NodeJs
+looking to collaborate and build really cool things.
+
+- 🔭 I’m currently working on Decentralized Social Media Server
+- 🌱 I’m currently learning Node Js & MongoDB
+- 👯 I’m looking to collaborate on Backend Development Project
+- 💬 Ask me about anything
+- 📫 How to reach me: mailto:ibenemeikenna96@gmail.com
+- ⚡ Fun fact: i always Win
+
+##
+## 🌐 Socials:
+- www.twitter.com/ibeneme_ikenna
+- https://wa.link/70sz29
+
+##
+## 💻 Tech Stack:
+ - CSS3 
+ - HTML5 
+ - JavaScript
+ - Express.js
+ - NodeJS
+ - NPM 
+ - Figma
+ - Adobe XD
