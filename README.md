@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Ibeneme Ikenna. 
 ##
 
-## Fullstack Developer (JavaScript & Node Js) || UX Designer 
+## Junior Developer (Js & Node.Js) || UX Designer 
 ##
 
 ## 💫 About Me:
