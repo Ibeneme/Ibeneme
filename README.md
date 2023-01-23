@@ -33,13 +33,12 @@ looking to collaborate and build really cool things with you.
 
 ##
 ## 💻 Tech Stack:
- - CSS3 
- - HTML5 
- - JavaScript
  - React.js
  - React Native
+ - JavaScript
  - Express.js
  - NodeJS
- - NPM 
+ - CSS3 
+ - HTML5 
  - Figma
  - Adobe XD
