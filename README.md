@@ -8,7 +8,7 @@
   CSS, 
   Bootstrap, 
   HTML 
-  & Currently learning Node-js{Express-js} ) 
+  & Currently learning flutter ) 
 
 ##
 
@@ -17,7 +17,7 @@
 i am a passionate and creative frontend developer, i love building mobile and website applications using React Native and React js respectively, i love Manipulating APIs to get desired and perfect results at the frontend, I'm a forever lover of JavaScript and React
 looking to collaborate and build really cool things with you.
 
-- 🔭 I’m currently building a Decentralized Social Media Server at Hydra using React Native
+
 - 💻 I’m currently building a product with Kiko soon to be up on App Store and Play Store for users
 - 👨🏻‍💻 I’m a creative web designer and developer 
 - 🌱 I’m currently learning Node Js & MongoDB
