@@ -2,19 +2,15 @@
 ##
 
 ## Frontend Developer 
-( React Js, 
+( React.js, 
   React Native,
-  JavaScript, 
-  CSS, 
-  Bootstrap, 
-  HTML 
-  & Currently learning flutter ) 
+  Express.js ) 
 
 ##
 
 ## 💫 About Me:
 
-i am a passionate and creative frontend developer, i love building mobile and website applications using React Native and React js respectively, i love Manipulating APIs to get desired and perfect results at the frontend, I'm a forever lover of JavaScript and React
+i am a passionate and creative frontend developer, i love building mobile and website applications using React Native and React js respectively, i love Manipulating APIs to get desired and perfect results at the frontend, I'm a forever lover of JavaScript
 looking to collaborate and build really cool things with you.
 
 
