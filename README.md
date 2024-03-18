@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Ibeneme Ikenna. 
 ##
 
-## Frontend Developer 
+## Frontend and Mobile Developer 
 ( React.js, 
   React Native,
   Express.js ) 
