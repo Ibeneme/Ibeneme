@@ -19,5 +19,5 @@
 ⚡ Fun fact: When I'm not coding, you can find me exploring the great outdoors or experimenting with new recipes in the kitchen. And yes, even in my downtime, I'm always thinking about ways to innovate and create.
 
 ## 🌐 Socials:
-- [Twitter](www.twitter.com/ibeneme_ikenna)
+- [Twitter](https://x.com/ibeneme_ikenna)
 - [WhatsApp](https://wa.link/70sz29)
