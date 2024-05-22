@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ibeneme Ikenna.
 
-## Software Developer || Fullstack Developer (MERN) || Mobile App Developer (Swift & React Native)
+## Software Developer || Fullstack Developer (MERN Stack - MongoDB, Express.js, React.js, and Node.js) || Mobile App Developer (Swift & React Native)
 
 
 ## About Me 
