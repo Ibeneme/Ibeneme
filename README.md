@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Benson Ogholi
+# Hi there! 👋 I’m Ibeneme Ikenna
 
 Software Developer || Full-Stack Developer (Java & MERN Stack — MongoDB, Express.js, React.js, Node.js, Angular, and Ionic) || Mobile App Developer (Swift, Java, & React Native)
 
